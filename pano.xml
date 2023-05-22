@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1">
+  <input levelbiashidpi="0.400" width="1500" overlap="1" levelingpitch="0" leveltilesize="510" height="1500" leveltileurl="tiles/4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400">
+    <level predecode="0" width="1500" preload="0" height="1500"/>
+    <level predecode="0" width="750" preload="0" height="750"/>
+    <level predecode="1" width="375" preload="1" height="375"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start tilt="0" pan="0" fov="70"/>
+    <min tilt="-90" pan="0" fov="5"/>
+    <max tilt="90" pan="360" fov="120"/>
+  </view>
+  <userdata copyright="" comment="" longitude="" author="" title="" description="" latitude="" info="" datetime="" tags="кабинет" source=""/>
+  <hotspots wordwrap="1" width="180" height="20">
+    <label wordwrap="1" textalpha="1" width="180" textcolor="0x000000" backgroundalpha="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" height="20" enabled="1" border="1" borderalpha="1" borderradius="1"/>
+    <polystyle mode="0" backgroundalpha="0.2509803921568627" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+  </hotspots>
+  <media/>
+  <transition blendcolor="0x000000" type="crossdissolve" blendtime="1" softedge="0" zoomout="0" zoomspeed="2" zoomin="0" enabled="0" zoomoutpause="1" zoomfov="20"/>
+  <control simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedwheel="0" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="0" lockedmouse="0" hideabout="0" contextfullscreen="0" speedwheel="1"/>
+</panorama>
